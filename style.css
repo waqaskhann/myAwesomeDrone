@@ -46,6 +46,18 @@ body {
 
 }
 
+.jumbotron .input-group-text, .jumbotron button {
+
+	border-radius: 0.25rem !important;
+
+}
+
+.jumbotron button {
+
+	margin-left: 1px !important;
+
+}
+
 #email-j {
 
 	width: 250px;
