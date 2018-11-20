@@ -40,7 +40,15 @@ body {
 }
 
 .jumbotron form {
-	margin-left: 500px !important;
+
+	width: 365px;
+	margin: 0 auto;
+
+}
+
+#email-j {
+
+	width: 250px;
 }
 
 .about {
